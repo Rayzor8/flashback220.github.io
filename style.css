@@ -278,12 +278,7 @@ footer{
     .card {
         display: block;
     }
-    .btn {
-        display: flex;
-        justify-content: center;
-        width: 50%;
-        margin: 1rem auto;
-    }
+
 
     .wrapper{
        display: block;
